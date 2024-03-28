@@ -37,7 +37,7 @@ def _USDA_Error_Filter(api_error):
 def fetch_farmers_market_data(zipcode, radius):
     global api_response
     global API_TEST_FLAG
-    apikey = 'tlnUddS4mT'
+    apikey = 'REDACTED'
     apiUrl = f'https://www.usdalocalfoodportal.com/api/farmersmarket/?apikey={apikey}&zip={zipcode}&radius={radius}'
 
     headers = {
