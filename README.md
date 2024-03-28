@@ -1,6 +1,13 @@
 # FarmerMarketMapper
 Dynamic website pulling USDA registered farmers markets within a user-inputted radius.
 
+Includes:
+- SQL database
+- Cache History
+- Post History
+- User account creation, login, and encryption
+- Comments and Post capability
+- Dynamically created pages based on user-input zip code and radius
 
 Python 3 Requirements:
 <br>pip install flask==2.3.3
