@@ -1,6 +1,8 @@
 # FarmerMarketMapper
 Dynamic website pulling USDA registered farmers markets within a user-inputted radius.
 
+Note: You are required to request your own API key from the USDA website to use the code.
+
 Includes:
 - SQL database
 - Cache History
